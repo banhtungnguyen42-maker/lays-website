@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://banhtungnguyen42-maker.github.io/lays-website/sitemap.xml
